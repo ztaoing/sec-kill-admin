@@ -7,8 +7,8 @@ package model
 
 import (
 	"github.com/gohouse/gorose/v2"
+	"github.com/ztaoing/sec-kill-pkg/pkg/mysql"
 	"log"
-	"secondkill/pkg/mysql"
 )
 
 const (

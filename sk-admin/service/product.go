@@ -7,8 +7,8 @@ package service
 
 import (
 	"github.com/gohouse/gorose/v2"
+	"github.com/ztaoing/sec-kill-admin/sk-admin/model"
 	"log"
-	"secondkill/sk-admin/model"
 )
 
 type ProductService interface {

@@ -12,9 +12,9 @@ import (
 	"github.com/gohouse/gorose/v2"
 	"github.com/samuel/go-zookeeper/zk"
 	"github.com/unknwon/com"
+	"github.com/ztaoing/sec-kill-admin/sk-admin/model"
+	pkgConfig "github.com/ztaoing/sec-kill-pkg/pkg/config"
 	"log"
-	pkgConfig "secondkill/pkg/config"
-	"secondkill/sk-admin/model"
 	"time"
 )
 

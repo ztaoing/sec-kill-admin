@@ -8,7 +8,7 @@ package setup
 import (
 	"fmt"
 	"github.com/samuel/go-zookeeper/zk"
-	pkgConfig "secondkill/pkg/config"
+	pkgConfig "github.com/ztaoing/sec-kill-pkg/pkg/config"
 	"time"
 )
 

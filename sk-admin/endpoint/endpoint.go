@@ -9,8 +9,8 @@ import (
 	"context"
 	"github.com/go-kit/kit/endpoint"
 	"github.com/gohouse/gorose/v2"
-	"secondkill/sk-admin/model"
-	"secondkill/sk-admin/service"
+	"github.com/ztaoing/sec-kill-admin/sk-admin/model"
+	"github.com/ztaoing/sec-kill-admin/sk-admin/service"
 )
 
 type SKAdminEndpoint struct {

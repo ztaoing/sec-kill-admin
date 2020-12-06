@@ -16,10 +16,10 @@ import (
 	"github.com/gorilla/mux"
 	gozipkin "github.com/openzipkin/zipkin-go"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
+	"github.com/ztaoing/sec-kill-admin/sk-admin/endpoint"
+	"github.com/ztaoing/sec-kill-admin/sk-admin/model"
 	"net/http"
 	"os"
-	"secondkill/sk-admin/endpoint"
-	"secondkill/sk-admin/model"
 	endpts "secondkill/sk-app/endpoint"
 )
 
