@@ -6,10 +6,10 @@
 package main
 
 import (
-	"secondkill/pkg/bootstrap"
-	pkgConfig "secondkill/pkg/config"
-	"secondkill/pkg/mysql"
-	"secondkill/sk-admin/setup"
+	"github.com/ztaoing/sec-kill-admin/sk-admin/setup"
+	"github.com/ztaoing/sec-kill-pkg/pkg/bootstrap"
+	pkgConfig "github.com/ztaoing/sec-kill-pkg/pkg/config"
+	"github.com/ztaoing/sec-kill-pkg/pkg/mysql"
 )
 
 func main() {
